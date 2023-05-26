@@ -1,2 +1,2 @@
 # Discordify-bot
-discord bot
+Discordify is a working Discorddw bot tproject
